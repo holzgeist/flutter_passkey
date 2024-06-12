@@ -37,8 +37,6 @@ flutter:
       android:
         package: com.authentrend.flutter_passkey
         pluginClass: FlutterPasskeyPlugin
-      ios:
-        pluginClass: FlutterPasskeyPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
